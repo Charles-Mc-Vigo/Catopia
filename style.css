@@ -1,0 +1,15 @@
+
+header {
+    background-image: url("/assets/cat\ bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #f8f9fa;
+}
