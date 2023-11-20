@@ -4,7 +4,7 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 90vh;
 }
 
 .footer {
@@ -12,4 +12,37 @@ header {
     margin-top: 30px;
     padding: 10px;
     background-color: #f8f9fa;
+}
+#gallery{
+    background-color: #F1EFEF;
+}
+
+#about{
+    height: 50vh;
+}
+.card-img-top {
+    transition: transform 0.3s ease;
+}
+
+.card-img-top:hover {
+    transform: scale(1.1);
+}
+.card-img-custom {
+    height: 200px; /* Adjust the height as needed */
+    object-fit: cover;
+}
+#donation{
+    color: #fff;
+    background-image: url("/assets/cat-bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#loveAndCare{
+    background-image: url("/assets/cat\ bg3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
 }
