@@ -16,7 +16,9 @@ header {
 #gallery{
     background-color: #F1EFEF;
 }
-
+#home{
+    height: auto;
+}
 #about{
     height: auto;
 }
