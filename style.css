@@ -1,6 +1,6 @@
 
 header {
-    background-image: url("../assets/cat\ bg.jpg");
+    background-image: url("./assets/cat\ bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,14 +33,14 @@ header {
 }
 #donation{
     color: #fff;
-    background-image: url("../assets/cat-bg.jpg");
+    background-image: url("./assets/cat-bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
 }
 #loveAndCare{
-    background-image: url("../assets/cat\ bg3.jpg");
+    background-image: url("./assets/cat\ bg3.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
