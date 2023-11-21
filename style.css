@@ -1,6 +1,6 @@
 
 header {
-    background-image: url("/assets/cat\ bg.jpg");
+    background-image: url("../assets/cat\ bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,32 +28,21 @@ header {
     transform: scale(1.1);
 }
 .card-img-custom {
-    height: 200px; /* Adjust the height as needed */
+    height: 200px;
     object-fit: cover;
 }
 #donation{
     color: #fff;
-    background-image: url("/assets/cat-bg.jpg");
+    background-image: url("../assets/cat-bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
 }
 #loveAndCare{
-    background-image: url("/assets/cat\ bg3.jpg");
+    background-image: url("../assets/cat\ bg3.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-}
-
-/* Add this to your existing style.css or in a new style block */
-body {
-    transition: background-color 0.5s ease;
-}
-
-  /* Add this to the header or sections */
-.jumbotron,
-.container-fluid {
-    transition: background-color 0.5s ease;
 }
